@@ -22,7 +22,9 @@ This pipeline is built using a combination of **AWS services** and **Snowflake**
 
 * Services : AWS Kinesis, AWS App Runner, AWS Kinesis Firehose, AWS S3, AWS Lambda, Snowflake, Power BI
 
-  <img width="864" height="473" alt="image" src="https://github.com/user-attachments/assets/0a352817-5510-4d74-b11f-b80a02c23c61" />
+  <img width="945" height="494" alt="image" src="https://github.com/user-attachments/assets/2f27c57b-1067-4412-8fd4-3a6e8f4e9aa1" />
+
+
 
 
   
