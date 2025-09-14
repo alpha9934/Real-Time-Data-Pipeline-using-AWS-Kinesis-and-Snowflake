@@ -56,4 +56,7 @@ This project implemented a real-time data pipeline with the following steps:
     * The cleaned and structured data was then loaded into **Power BI**.
     * Multiple reports were created to visualize key metrics, providing diverse and strategic insights into global market trends.
   
+   <img width="1877" height="781" alt="image" src="https://github.com/user-attachments/assets/244aeb42-a09a-4354-80ce-383ed79beda9" />
+
+  
       
