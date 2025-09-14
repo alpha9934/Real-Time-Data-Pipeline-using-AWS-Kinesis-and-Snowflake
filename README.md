@@ -56,7 +56,40 @@ This project implemented a real-time data pipeline with the following steps:
     * The cleaned and structured data was then loaded into **Power BI**.
     * Multiple reports were created to visualize key metrics, providing diverse and strategic insights into global market trends.
   
-   <img width="1877" height="781" alt="image" src="https://github.com/user-attachments/assets/244aeb42-a09a-4354-80ce-383ed79beda9" />
+
+
+   
+  
+   <img width="1877" height="781" alt="image" src="https://github.com/user-attachments/assets/244aeb42-a09a-4354-80ce-383ed79beda9" /> <br> </br>
+   
+   
+
+
+
+   ## Visualization Result:
+   <p>
+<img width="1597" height="836" hspace= "100" alt="Screenshot 2025-09-15 at 12 45 57 AM" style= "padding-bottom:20 px;border:none;" src="https://github.com/user-attachments/assets/cc755f64-bbf4-4d82-b47d-5bd6afbc2283" />
+<p>  
+<img width="1617" height="834" hspace="100" alt="Screenshot 2025-09-15 at 12 46 16 AM" src="https://github.com/user-attachments/assets/a53ff587-dd22-45cd-9e2c-735ac9068544" />
+<p>
+
+<img width="1607" height="834" hspace="100" alt="Screenshot 2025-09-15 at 12 46 55 AM" src="https://github.com/user-attachments/assets/0926ae7b-9e2e-4462-aa88-9d2cfa1d6422" />
+<p>
+<img width="1617" height="834" hspace="100" alt="Screenshot 2025-09-15 at 12 46 41 AM" src="https://github.com/user-attachments/assets/1c1175f8-9a7d-4afa-b62f-e65acc01200e" />
+
+
+
+
+
+</p>
+
+
+
+
+
+
+   
+   
 
   
       
