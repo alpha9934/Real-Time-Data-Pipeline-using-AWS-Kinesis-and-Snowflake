@@ -68,14 +68,14 @@ This project implemented a real-time data pipeline with the following steps:
 
    ## Visualization Result:
    <p>
-<img width="1597" height="836" hspace= "100" alt="Screenshot 2025-09-15 at 12 45 57 AM" style= "padding-bottom:20 px;border:none;" src="https://github.com/user-attachments/assets/cc755f64-bbf4-4d82-b47d-5bd6afbc2283" />
+<img width="1597" height="836" hspace= "10" alt="Screenshot 2025-09-15 at 12 45 57 AM" style= "padding-bottom:20 px;border:none;" src="https://github.com/user-attachments/assets/cc755f64-bbf4-4d82-b47d-5bd6afbc2283" />
 <p>  
-<img width="1617" height="834" hspace="100" alt="Screenshot 2025-09-15 at 12 46 16 AM" src="https://github.com/user-attachments/assets/a53ff587-dd22-45cd-9e2c-735ac9068544" />
+<img width="1617" height="834" hspace="10" alt="Screenshot 2025-09-15 at 12 46 16 AM" src="https://github.com/user-attachments/assets/a53ff587-dd22-45cd-9e2c-735ac9068544" />
 <p>
 
-<img width="1607" height="834" hspace="100" alt="Screenshot 2025-09-15 at 12 46 55 AM" src="https://github.com/user-attachments/assets/0926ae7b-9e2e-4462-aa88-9d2cfa1d6422" />
+<img width="1607" height="834" hspace="10" alt="Screenshot 2025-09-15 at 12 46 55 AM" src="https://github.com/user-attachments/assets/0926ae7b-9e2e-4462-aa88-9d2cfa1d6422" />
 <p>
-<img width="1617" height="834" hspace="100" alt="Screenshot 2025-09-15 at 12 46 41 AM" src="https://github.com/user-attachments/assets/1c1175f8-9a7d-4afa-b62f-e65acc01200e" />
+<img width="1617" height="834" hspace="10" alt="Screenshot 2025-09-15 at 12 46 41 AM" src="https://github.com/user-attachments/assets/1c1175f8-9a7d-4afa-b62f-e65acc01200e" />
 
 
 
